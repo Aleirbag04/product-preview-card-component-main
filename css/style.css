@@ -75,7 +75,7 @@ main{
 }
 
 .image-container{
-  background-image: url("/images/image-product-mobile.jpg");
+  background-image: url("./images/image-product-mobile.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 35vh;
