@@ -178,7 +178,6 @@ button > img {
     }
 
   .image-container {
-    /* background-size:  100%; */
     background-image: url("../images/image-product-desktop.jpg");
     height: 100%;
     border-radius: 20px 0px 0px 20px;
