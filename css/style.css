@@ -96,7 +96,7 @@ main{
   margin: 1.6rem;
 }
 
-.info-container h2{
+.info-container h1{
 
     font-size: 2rem;
     font-family: 'Fraunces', serif;
@@ -199,7 +199,7 @@ button > img {
       margin: auto 2.5rem;
     }
 
-    .info-container h2 {
+    .info-container h1 {
 
       font-size: 2.5rem;
       margin-bottom: 1.8rem;
